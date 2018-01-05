@@ -1,0 +1,28 @@
+Final Project, Part 1: Pitch
+Test and validate 2–3 initial ideas.
+In the field of data science, projects are practical. One of the best ways to quickly test ideas is to share your ideas with others and 
+get feedback. Start by reviewing the requirements and suggested data sets, then generate a list of 2–3 potential ideas you'd like
+to pursue.
+
+Requirements
+Generate problem statement (of at least 250 words).
+State the questions you seek to answer, data set suggestions, and possible challenges.
+Create a written pitch that can be shared with your instructor and classmates.
+
+I plan to use order data from an e-commerce company around interaction volume: how many phone calls, livechats, emails, and SMS
+are handled on a daily basis.  I will have access to 2-4 years of data (with timestamps down to the second), depending on the 
+interaction channel.  I would like to look at this information, which will have dates, counts, times, interaction channel, and maybe
+some other information like category and reason tags, for further breakdowns.  I would like to see if there are trends and predictions
+to be made around holidays / months. Also, if possible, I will compare this to order volume and see if we can do demand forecasting 
+using last month’s order volume and interaction counts to determine staffing for the following month.  
+
+Possible Areas to Examine:
+
+How does interaction volume change with seasonality, month to month, year to year?
+How does time of day affect interaction volume?
+How does time of day affect order volume?
+How does interaction volume vary by day of the week?
+Growth rate of interaction channels
+Correlation between category/reason tags and seasonality
+Correlation between order volume and interaction volume - is order volume a good predictor for interaction volume?
+How can we use this information for demand forecasting / better staffing optimization?
